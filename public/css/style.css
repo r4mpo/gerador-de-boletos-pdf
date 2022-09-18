@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300&display=swap');
+
+.css-customizado {
+    font-size: 14px;
+    font-family: 'Titillium Web', sans-serif;
+    outline: none;
+}
+
+.css-customizado input[type=text] {
+    height: 55px;
+}
+
+.css-customizado input[type=date] {
+    height: 55px;
+}
+
+.css-customizado input[type=number] {
+    height: 55px;
+}
+
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+input[type="number"] {
+    -moz-appearance: textfield;
+}
