@@ -15,3 +15,10 @@ Este plugin foi desenvolvido com o intuito de gerar arquivos (.pdf) de boletos e
 = Requirements =
 
 * WordPress 4.7 or later.
+
+============================
+<br>
+
+<p align="center">
+    <img width="1000" height="500" src="gerador-de-boletos.gif">
+</p>
